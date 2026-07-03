@@ -18,7 +18,7 @@
 
 ⚛️ Comfortable working with **React**, **TypeScript**, and modern JavaScript.
 
-🧩 Regularly solving **Data Structures & Algorithms** problems in C++.
+🧩 Regularly  solving **Data Structures & Algorithms** problems in C++.
 
 🌱 Currently focusing on **Backend Development** and strengthening my full-stack development skills.
 
