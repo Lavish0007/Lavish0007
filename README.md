@@ -49,29 +49,7 @@
 
 ---
 
-## 🌱 Currently Learning
 
-- 🚀 Backend Development
-- 🧩 Advanced Data Structures & Algorithms
-- 🏗️ System Design Fundamentals
-- ☁️ Building Scalable Full-Stack Applications
-
----
-
-
-
-## 💡 Interests
-
-```text
-🌐 Full Stack Development
-⚛️ React Ecosystem
-🧩 Competitive Programming
-🎨 UI/UX Design
-🚀 Open Source
-📚 Continuous Learning
-```
-
----
 
 ## 📫 Connect With Me
 
