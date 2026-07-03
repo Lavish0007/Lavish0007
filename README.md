@@ -2,9 +2,9 @@
 
 <div align="center">
 
-💻 Computer Science Student | 🌐 Frontend Developer | 🧩 DSA Enthusiast
+### 💻 Full Stack Developer (Frontend Focused) | 🧩 DSA Enthusiast
 
-*"Building clean interfaces while solving complex problems."*
+*"Building fast, scalable, and user-friendly web experiences."*
 
 </div>
 
@@ -12,89 +12,72 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science student
+🎓 Computer Science Undergraduate
 
-💡 Passionate about Web Development, UI/UX Design, and Problem Solving
+💻 Frontend Developer with experience building responsive web applications using modern technologies.
 
-📚 Currently learning:
-- JavaScript
-- React
-- TypeScript
-- Backend Development
+⚛️ Comfortable working with **React**, **TypeScript**, and modern JavaScript.
 
-🧠 Solving Data Structures & Algorithms problems regularly in C++
+🧩 Regularly solving **Data Structures & Algorithms** problems in C++.
 
-🎯 Goal: Become a Full Stack Developer and build impactful products.
+🌱 Currently focusing on **Backend Development** and strengthening my full-stack development skills.
+
+🎯 Goal: Build scalable products and contribute to impactful software projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Frontend
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies
+### Programming
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 Currently Learning
 
-- 📱 Responsive Web Applications
-- ⚛️ Learning React & TypeScript
-- 📈 Improving DSA and Competitive Programming
-- 🎨 Better UI/UX Design Skills
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Lavish0007&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lavish0007&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish0007&layout=compact&theme=tokyonight&hide_border=true)
+- 🚀 Backend Development
+- 🧩 Advanced Data Structures & Algorithms
+- 🏗️ System Design Fundamentals
+- ☁️ Building Scalable Full-Stack Applications
 
 ---
 
-## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Lavish0007&theme=tokyo-night)
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Lavish0007&theme=tokyonight&no-frame=true&row=1)
-
----
-
-## 💡 What I Love
+## 💡 Interests
 
 ```text
-💻 Building Websites
-📚 Learning New Technologies
-🧩 Solving DSA Problems
-🎨 Designing Beautiful Interfaces
+🌐 Full Stack Development
+⚛️ React Ecosystem
+🧩 Competitive Programming
+🎨 UI/UX Design
 🚀 Open Source
+📚 Continuous Learning
 ```
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/lavishpatel/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Lavish0007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/Lavish0007](https://github.com/Lavish0007))
 
 ---
 
@@ -102,6 +85,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"Turning ideas into real-world applications, one commit at a time."*
 
 </div>
