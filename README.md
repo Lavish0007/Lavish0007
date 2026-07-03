@@ -20,7 +20,7 @@
 
 🧩 Regularly  solving **Data Structures & Algorithms** problems in C++.
 
-🌱 Currently focusing on **Backend Development** and strengthening my full-stack development skills.
+🌱 Currently focusing on **Backend Development** and strengthening my full-stack development skills. 
 
 🎯 Goal: Build scalable products and contribute to impactful software projects.
 
