@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/lavishpatel/))
+[![LinkedIn]((https://www.linkedin.com/in/lavishpatel/))]
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/Lavish0007](https://github.com/Lavish0007))
 
